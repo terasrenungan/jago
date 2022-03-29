@@ -25,34 +25,14 @@ def banner():
     import random
     
     b = [   
- 
-' 7777777777~:                               7PPP?      !!!!!!!~~~^.                      ?55P!  ^5555',
-' PPPPPPPPGGPPJ:                             ?PPP?     .5PPPGGGGGPP5J^                    JPPG7  ^PPPP',
-' 5PPP7::^~JPPPP^                            ?PPP?     .5PPP?~~~!YPPPP:                   JPPP!  ^PPPP',
-' 5PPG!     5PPGJ                            ?PPP?     .5PPP~    :PPPG!                   JPPP!  ^PPPP',
-' PPPG! ::^?PPPP~   :!?YYYYJ!:       ^7?JJ?!:JPPP?     .5PPP~ ~!7YPPP?    ^~~~.    :~~~^  JPPP!  ^PPPP',
-' PPPG~.PPPPP5J^  :JPGPJ77YPPPJ.   ~YPPGP55PPPPPP?     .5PPP~ PGGGPP57:  .PPPG^    7GPGY  JPPP!  ^PPPP',
-' PPPG~:PPP5^.   .5PPP?^::^JPPGJ  !PPPP?:..:7PPPP?     .5PPP~ ~~!7JPPPP7 .5PPP^    !PPPJ  JPPP!  ^PPPP',
-' PPPG~ JPPPJ:   ~GPPP555555555Y. JPPP5      JPPP?     .5PPP~      7PPPG^ 5PPP^    7PPPJ  JPPP!  ^PPPP',
-' PPPG!  7PPPP!  .5PPP7....^~^..  !GPPP7.  .~5PPP?     .5PPP! ....:YPPPP: 5PPP!    JPPPJ  JPPP!  ^PPPP',
-' PPPG!   ^5PPGJ: :YPPPYJ?JPGPY:   7PPPG5YY5GPPPG?     .5PPPP55555PGPP5~  ?PPPPJ7?YPPPP~  YPPG7  ^PPPP',
-' JJJJ^    .JYYYJ:  ^?Y5555YJ!:     :!J555YJ~?YYY7     .JYYYYYYYYYYJ7~.    ^?YPPGGP5Y?:   ?555!  :5555',
-'                      ...              ..                                    .:^^:.       ...    ....',
-'                                                 .....                                               ',
-'                                            .:~~!!!!!!~~:.                                           ',
-'                        :.              ...^!77!!!!!!!!77!^...              .:                       ',
-'                       .?JJ~        :~7J555J7!!!!!!!!!!!!7J555J7~:        ~JJ?.                      ',
-'                        :??:  ..:7JYPPPPP5PPPY7!!!!!!!!7YPPP5PPPPPYJ7:..  :??:                       ',
-'                       J?.:~J55PPPPPPPPPPPPPPP?!!!!!!?PPPPPPPPPPPPPPP55J~:.?J                       ',
-'                        .~!7PPPPPPPPPPPPP5PPP555!!!!!!555PPP5PPPPPPPPPPPPP7!~.                       ',
-'                          .~5PP5JJJYYJ5PYJJ5PPPPJ7!!7JPPPP5JJYP5JYYJJJ5PP5~.                         ',
-'                      .~7?55YJJ7:  ^JJY55J755YYYYJ!!JYYYY557J55YJJ^  :?JJY55?7~.                     ',
-'                      ^7J7^:        :!!~:..^!!!!77!!77!!!!^..:~!!:        :^7J7^                     ',
-'                                             :^~!!!!!!~^.                                            ',
+     b = [
     
- 
-    ' ========================================================',
-    ' 👽 Telegram Member Pro 💪',
+    '  ',
+    ' ░█▀▄▀█ █▀▀█ █── █── █▀▀█ 　 ▀▀█▀▀ █▀▀ █── █▀▀ █▀▀▀ █▀▀█ █▀▀█ █▀▄▀█ ',
+    ' ░█░█░█ █▄▄█ █── █── █▄▄█ 　 ─░█── █▀▀ █── █▀▀ █─▀█ █▄▄▀ █▄▄█ █─▀─█ ',
+    ' ░█──░█ ▀──▀ ▀▀▀ ▀▀▀ ▀──▀ 　 ─░█── ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀▀ ▀─▀▀ ▀──▀ ▀───▀ ',
+    '                                      〸🝗㇄🝗Ꮆ尺闩爪 ',
+
     ' ========================================================',
     ]
     for char in b:
